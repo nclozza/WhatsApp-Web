@@ -1,0 +1,8 @@
+{
+  "productName": "WhatsApp Web",
+  "productDescription": "WhatsApp Web for Debian/Ubuntu x64",
+  "icon": "resources/whatsapp-logo.png",
+  "categories": [
+    "Utility"
+  ]
+}
