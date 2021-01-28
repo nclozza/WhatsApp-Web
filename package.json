@@ -11,7 +11,7 @@
   "author": "Nicolás Clozza",
   "license": "ISC",
   "devDependencies": {
-    "electron": "4.1.1",
+    "electron": "9.4.0",
     "electron-installer-debian": "1.1.1",
     "electron-packager": "^13.1.1"
   }
